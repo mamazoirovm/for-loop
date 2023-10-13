@@ -144,3 +144,7 @@ for (let i = as; i <= bs; i++) {
 }
 
 console.log("Kvadratlar yig'indisi: " + sums);
+
+let uy = "ten"
+
+console.log(Number(uy));
